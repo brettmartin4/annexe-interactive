@@ -6,18 +6,18 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Annexe Interactive</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Under construction--please check back again soon!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          For all business inquiries, please contact us at admin@annexeinteractive.com
         </p>
       </main>
 
-      <Footer />
+      //<Footer />
     </div>
   )
 }
