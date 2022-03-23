@@ -11,13 +11,13 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Under construction--please check back again soon!" />
+        <Header title="Under construction. Please check back again soon!" />
         <p className="description">
           For all business inquiries, please contact us at admin@annexeinteractive.com
         </p>
       </main>
 
-      //<Footer />
+      <Footer />
     </div>
   )
 }
