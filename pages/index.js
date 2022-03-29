@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Annexe Interactive</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/AILOGO.ico" />
       </Head>
 
       <main>
