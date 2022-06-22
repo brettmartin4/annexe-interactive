@@ -13,29 +13,17 @@ export default function Home() {
       <main>
         <Header title="Under construction. Please check back again soon!" />
     
+        <section class="section-1">
+          Links
+        </section>
+        <section class="section-2">
+          Text
+        </section>
         //<p className="description">
           //For all business inquiries, please contact us at admin@annexeinteractive.com
         //</p>
     
-    <style>
-    .indent-1 {float: left;}
-    .indent-1 section {width: 50%; float: left;}
-</style>
-
-<section class="indent-1">
-    <!-- Section 1 --> 
-    <section>
-        <div>Some content 1</div>
-        <div>Some more 1</div>
-    </section>
-
-    <!-- Section 2 -->
-    <section>
-        <div>Some content 2</div>
-        <div>Some more 2</div>
-    </section>
-</section>  
-    
+  
       </main>
     
       
