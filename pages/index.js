@@ -11,17 +11,17 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Under construction. Please check back again soon!" />
     
         <section class="section-1">
           Links
         </section>
         <section class="section-2">
-          Text
+          <Header title="Under construction. Please check back again soon!" />
+          
+          <p className="description">
+            For all business inquiries, please contact us at admin@annexeinteractive.com
+          </p>
         </section>
-        //<p className="description">
-          //For all business inquiries, please contact us at admin@annexeinteractive.com
-        //</p>
     
   
       </main>
