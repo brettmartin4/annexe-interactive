@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/AILOGO.ico" />
       </Head>
 
-      <main>
+      <body>
     
         <section class="section-1">
           Links
@@ -24,7 +24,7 @@ export default function Home() {
         </section>
     
   
-      </main>
+      </body>
     
       
 
