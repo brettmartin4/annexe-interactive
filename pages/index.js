@@ -4,6 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
+    <div className="container">
     <div className="container-1">
     
       
@@ -35,6 +36,7 @@ export default function Home() {
     
     <div className="container-2">
       <Footer />
+    </div>
     </div>
   )
 }
