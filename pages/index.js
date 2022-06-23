@@ -16,8 +16,8 @@ export default function Home() {
       <div className="box-1">
         <h3>Links</h3>
         <p>
-          Link 1 <br> 
-          link 2 <br> 
+          Link 1 <br /> 
+          link 2 <br /> 
           link 3
         </p>
       </div>
@@ -26,7 +26,7 @@ export default function Home() {
       <div className="box-2">
         <h3>Annexe Interactive</h3>
         <p>
-          Site currently under construction. <br>
+          Site currently under construction. <br />
           For all business inquiries, please contact us at admin@annexeinteractive.com
         </p>
       </div>
