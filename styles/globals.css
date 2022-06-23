@@ -68,3 +68,7 @@ code {
 .box-2 {
   flex:3;
 }
+
+.container-2 {
+  display:flex
+}
