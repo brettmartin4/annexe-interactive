@@ -33,6 +33,8 @@ export default function Home() {
    
     </div>
     
-    <Footer />
+    <div className="container-2">
+      <Footer />
+    </div>
   )
 }
