@@ -30,8 +30,9 @@ export default function Home() {
           For all business inquiries, please contact us at admin@annexeinteractive.com
         </p>
       </div>
-    
-      <Footer />
+   
     </div>
+    
+    <Footer />
   )
 }
