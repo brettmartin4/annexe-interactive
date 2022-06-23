@@ -6,12 +6,13 @@ export default function Home() {
   return (
     <div className="container-1">
     
-      <div className="container">
+      
       <Head>
         <title>Annexe Interactive</title>
         <link rel="icon" href="/AILOGO.ico" />
       </Head>
 
+    
       <div className="box-1">
         <h3>Links</h3>
         <p>
@@ -20,6 +21,7 @@ export default function Home() {
           link 3
         </p>
       </div>
+    
     
       <div className="box-2">
         <h3>Annexe Interactive</h3>
