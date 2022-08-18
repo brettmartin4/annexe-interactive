@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
@@ -17,9 +18,9 @@ export default function Projects() {
       <div className="box-1">
         <h3>Links</h3>
         <p>
-          Link 1 <br /> 
-          link 2 <br /> 
-          link 3
+          Home <br /> 
+          Projects <br /> 
+          About Us
         </p>
       </div>
     
