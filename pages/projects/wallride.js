@@ -6,6 +6,11 @@ import Footer from '@components/Footer'
 export default function Wallride() {
   return (
     <div className="container">
+
+      <div className="container-2">
+        <Header />
+      </div>
+
     <div className="container-1">
     
       

@@ -1,3 +1,3 @@
-export default function Header({ title }) {
-  return <h1 className="title">{title} Annexe Interactive</h1>
+export default function Header() {
+  return <h1 class="text-center"> Annexe Interactive</h1>
 }
