@@ -55,6 +55,33 @@ export default function AboutUs() {
           </p>
         </div>
 
+        <h3>Project Teams</h3>
+
+        <div className="box-3">
+          <h3>The Anomaly</h3>
+          <ul>
+            <li>Brett Martin - Program Manager, Writer, Lead Software Developer</li>
+            <li>Yanni Visci - Program Manager, Storyboard</li>
+            <li>Michael Visci - Storyboard</li>
+            <li>Benya Barshai - Composer</li>
+            <li>Mario Luengo - Composer</li>
+            <li>Calypso - Composer</li>
+            <li>Cameron Jones - Writer</li>
+            <li>PenDragon - Writer</li>
+            <li>Sysen - Splash Screen Artist</li>
+            <li>Julioalqae - Sprite Artist</li>
+            <li>Jun Project - CG Artist</li>
+            <li>Achrocide - CG Artist</li>
+            <li>Alexis Rillera - Background Artist</li>
+            <li>Ariangga (QS2435) - Background Artist</li>
+            <li>Selavi - Background Artist</li>
+            <li>Potouto - User Interface Graphic Design</li>
+            <li>Chris Ventura (This is Danger Design) - Logo Design</li>
+            <li>White Charisma - Animator, Video Editor</li>
+          </ul>
+          Special thanks: Ethan Compton, Cristian Enciso, Jordan Kowet Devon Bennett, Connor Simon, Sal Serrano, Garrett Ludwig, Kenneth Tucker, Matias Schwartz, Zach Glossenger, Austin Benoit, Jaymen Luther, Cameron Conrad
+        </div>
+
       </div>
 
     </div>
