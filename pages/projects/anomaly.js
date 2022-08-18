@@ -48,7 +48,7 @@ export default function Anomaly() {
         </p>
         <h3>Links</h3>
         <p>
-            <a href="https://store.steampowered.com/app/938050/The_Anomaly/">The Anomaly on Steam</a>
+            <a href="https://store.steampowered.com/app/938050/The_Anomaly/">The Anomaly on Steam</a> <br />
             <a href="https://annexeinteractive.itch.io/the-anomaly-demo">The Anomaly on Itch.io</a>
         </p>
       </div>
