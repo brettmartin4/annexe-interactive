@@ -55,7 +55,7 @@ export default function AboutUs() {
           </p>
         </div>
 
-        <h3>Project Teams</h3>
+        <h3 class="text-center">Project Teams</h3>
 
         <div className="box-3">
           <h3>The Anomaly</h3>
