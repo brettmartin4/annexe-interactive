@@ -55,7 +55,7 @@ export default function AboutUs() {
           </p>
         </div>
 
-        <div class="row justify-content-center">
+        <div className="text-center">
           <h2>Project Teams</h2>
         </div>
 

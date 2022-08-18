@@ -74,6 +74,10 @@ code {
   border-bottom: 1px solid #000000;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .vert-box-container {
   flex:3;
   min-height: 100%;
