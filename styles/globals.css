@@ -70,6 +70,15 @@ code {
   flex:3;
 }
 
+.box-3 {
+  border-bottom: 1px solid #000000;
+}
+
+.vert-box-container {
+  flex:3;
+  min-height: 100%;
+}
+
 .container-2 {
   display:flex
 }
