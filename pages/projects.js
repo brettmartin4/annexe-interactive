@@ -28,12 +28,12 @@ export default function Projects() {
       <div className="box-2">
         <h3>Software</h3>
         <p>
-          The Anomaly <br />
-          Hidrosity
+          <Link href="/projects/anomaly">The Anomaly</Link> <br />
+          <Link href="/projects/wallride">Wallride</Link> <br />
         </p>
-        <h3>Publications</h3>
+        <h3>Research</h3>
         <p>
-          Evaluating Unity DOTS
+          <Link href="/projects/ecs">Unity ECS</Link> <br />
         </p>
       </div>
    
