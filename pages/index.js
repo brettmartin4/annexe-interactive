@@ -18,9 +18,9 @@ export default function Home() {
       <div className="box-1">
         <h3>Links</h3>
         <p>
+          <Link href="/">Home</Link> <br /> 
           <Link href="/projects">Projects</Link> <br /> 
-          link 2 <br /> 
-          link 3
+          About Us
         </p>
       </div>
     
