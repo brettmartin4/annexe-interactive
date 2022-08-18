@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <>
       <header className={styles.header}>
-        Annexe Interactive
+        <h1>Annexe Interactive</h1>
       </header>
     </>
   )
