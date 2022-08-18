@@ -18,8 +18,8 @@ export default function Projects() {
       <div className="box-1">
         <h3>Links</h3>
         <p>
-          Home <br /> 
-          Projects <br /> 
+          <Link href="/">Home</Link> <br /> 
+          <Link href="/projects">Projects</Link> <br /> 
           About Us
         </p>
       </div>
