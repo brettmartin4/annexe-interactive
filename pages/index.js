@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="container">
 
-      <div className="container-2">
+      <div class="d-flex justify-content-center">
         <Header />
       </div>
 
