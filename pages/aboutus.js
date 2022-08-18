@@ -3,7 +3,7 @@ import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 
-export default function Projects() {
+export default function AboutUs() {
   return (
     <div className="container">
     <div className="container-1">
