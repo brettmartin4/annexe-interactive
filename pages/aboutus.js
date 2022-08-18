@@ -55,7 +55,9 @@ export default function AboutUs() {
           </p>
         </div>
 
-        <h3 class="text-center">Project Teams</h3>
+        <div class="row justify-content-center">
+          <h2>Project Teams</h2>
+        </div>
 
         <div className="box-3">
           <h3>The Anomaly</h3>
@@ -80,6 +82,20 @@ export default function AboutUs() {
             <li>White Charisma - Animator, Video Editor</li>
           </ul>
           Special thanks: Ethan Compton, Cristian Enciso, Jordan Kowet Devon Bennett, Connor Simon, Sal Serrano, Garrett Ludwig, Kenneth Tucker, Matias Schwartz, Zach Glossenger, Austin Benoit, Jaymen Luther, Cameron Conrad
+        </div>
+
+        <div className="box-3">
+          <h3>Wallride</h3>
+          <ul>
+            <li>Yanni Visci - Program Manager, Graphic Design, Level Design, Storyboard</li>
+            <li>Brett Martin - Program Manager, Storyboard, Lead Software Developer</li>
+            <li>Michael Visci - Level Testing</li>
+            <li>Balazs Markos - Concept</li>
+            <li>Rob Aleckna - Level Design</li>
+            <li>Wail Abou - Programmer</li>
+            <li>Princeton Coleman (Yuni Wa) - Composer</li>
+          </ul>
+          Special thanks: D-Sane8
         </div>
 
       </div>
