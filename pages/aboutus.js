@@ -31,6 +31,10 @@ export default function AboutUs() {
     
       <div className="vert-box-container">
 
+        <div className="text-center">
+          <h2>Administrative Team</h2>
+        </div>
+
         <div className="box-3">
           <h3>Brett Martin</h3>
           <h4>Co-Founder and Chief Executive Officer</h4>
@@ -63,7 +67,7 @@ export default function AboutUs() {
           <h3>The Anomaly</h3>
           <ul>
             <li>Brett Martin - Program Manager, Writer, Lead Software Developer</li>
-            <li>Yanni Visci - Program Manager, Storyboard</li>
+            <li>Yanni Visci - Storyboard</li>
             <li>Michael Visci - Storyboard</li>
             <li>Benya Barshai - Composer</li>
             <li>Mario Luengo - Composer</li>
@@ -88,11 +92,11 @@ export default function AboutUs() {
           <h3>Wallride</h3>
           <ul>
             <li>Yanni Visci - Program Manager, Graphic Design, Level Design, Storyboard</li>
-            <li>Brett Martin - Program Manager, Storyboard, Lead Software Developer</li>
+            <li>Brett Martin - Lead Software Developer</li>
             <li>Michael Visci - Level Testing</li>
             <li>Balazs Markos - Concept</li>
             <li>Rob Aleckna - Level Design</li>
-            <li>Wail Abou - Programmer</li>
+            <li>Wail Abou - Software Developer</li>
             <li>Princeton Coleman (Yuni Wa) - Composer</li>
           </ul>
           Special thanks: D-Sane8
