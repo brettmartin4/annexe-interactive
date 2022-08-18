@@ -20,7 +20,7 @@ export default function Projects() {
         <p>
           <Link href="/">Home</Link> <br /> 
           <Link href="/projects">Projects</Link> <br /> 
-          About Us
+          <Link href="/aboutus">About Us</Link>
         </p>
       </div>
     
