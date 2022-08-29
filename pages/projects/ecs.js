@@ -50,7 +50,7 @@ export default function Ecs() {
         </p>
         <h3>Links</h3>
         <p>
-            Paper currently pending publication, but will be published in the proceedings by <a href="https://www.springer.com/series/11769">Springer Nature - Book Series: Transactions on Computational Science \& Computational Intelligence</a>.
+            Paper currently pending publication, but will be published in the proceedings by <a href="https://www.springer.com/series/11769" target="_blank" rel="noopener noreferrer">Springer Nature - Book Series: Transactions on Computational Science \& Computational Intelligence</a>.
         </p>
       </div>
    
