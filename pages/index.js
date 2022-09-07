@@ -33,7 +33,9 @@ export default function Home() {
         <div className="box-2">
           <h3>Annexe Interactive</h3>
           <p>
-            Site currently under construction. <br />
+            Annexe Interactive is a small software development group based in the U.S. with team members from around the globe. Our primary focuses are in research, engineering, and development as it applies to software and games for mobile and desktop platforms. <br /><br />
+            <br />
+
             For all business inquiries, please contact us at admin@annexeinteractive.com
           </p>
         </div>
